@@ -1,13 +1,14 @@
-#phaser3-typescript-webpack
+# phaser3-typescript-webpack
 
-###About:
+### About:
+
 This project is a boilerplate to build html5 games using typescript with phaser 3. and easily add ios and android with capacitorjs.
 
-##Dependencies
+## Dependencies
 
 - nodejs 12 LTS+
 
-##Quick start
+## Quick start
 
 - Clone this repo `git clone https://github.com/morganster/phaser3-typescript-webpack.git`
 - Install the dependencies by running `npm install`
